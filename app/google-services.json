@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126108834952",
+    "project_id": "angkutinaja-3a555",
+    "storage_bucket": "angkutinaja-3a555.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126108834952:android:758a762ce888e7aac7133d",
+        "android_client_info": {
+          "package_name": "com.example.angkutinaja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM82_70bExHovmmd9VLGHDIVVaSU3QT9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
